@@ -5,10 +5,10 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon"
+    "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Carlos Arce",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.2",
